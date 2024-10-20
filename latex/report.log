@@ -1,0 +1,511 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.18)  17 MAY 2024 17:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Sai Sumakar/Desktop/IIITDM/New folder/latex/report.tex"
+(c:/Users/Sai Sumakar/Desktop/IIITDM/New folder/latex/report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks17
+\labelindent=\skip50
+\enit@outerparindent=\dimen141
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count195
+\enitdp@description=\count196
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks19
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks21
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip53
+\thanksmargin=\skip54
+\droptitle=\skip55
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box53
+\TP@holdbox=\box54
+\TPHorizModule=\dimen155
+\TPVertModule=\dimen156
+\TP@margin=\dimen157
+\TP@absmargin=\dimen158
+
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen159
+\TP@ox=\dimen160
+\TP@oy=\dimen161
+\TP@tbargs=\toks22
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count266
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box55
+)
+\tc@llx=\dimen164
+\tc@lly=\dimen165
+\tc@urx=\dimen166
+\tc@ury=\dimen167
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen168
+\adjbox@Height=\dimen169
+\adjbox@Depth=\dimen170
+\adjbox@Totalheight=\dimen171
+\adjbox@pwidth=\dimen172
+\adjbox@pheight=\dimen173
+\adjbox@pdepth=\dimen174
+\adjbox@ptotalheight=\dimen175
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count267
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box56
+\sift@deathcycles=\count268
+\@vwid@loff=\dimen176
+\@vwid@roff=\dimen177
+)) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks25
+\float@box=\box57
+\@float@everytoks=\toks26
+\@floatcapt=\box58
+)
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (725.54527pt) is ignored.
+
+(C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box59
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen178
+\scratchbox=\box60
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen179
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks28
+) (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) [1
+
+{C:/Users/Sai Sumakar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [1] [2] [3] [4]
+<er.png, id=25, 1328.965pt x 1935.23pt>
+File: er.png Graphic file (type png)
+<use er.png>
+Package pdftex.def Info: er.png  used on input line 223.
+(pdftex.def)             Requested size: 469.47307pt x 683.63037pt.
+ [5 <./er.png>]
+<rel.png, id=31, 1328.965pt x 1965.3425pt>
+File: rel.png Graphic file (type png)
+<use rel.png>
+Package pdftex.def Info: rel.png  used on input line 231.
+(pdftex.def)             Requested size: 469.47307pt x 694.26778pt.
+
+Overfull \vbox (8.9347pt too high) has occurred while \output is active []
+
+ [6 <./rel.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 246.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 246.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 246.
+ [7] [8] [9]
+<1.png, id=48, 737.75626pt x 465.53925pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 471.
+(pdftex.def)             Requested size: 469.47307pt x 296.24634pt.
+<2.png, id=49, 531.1845pt x 257.16075pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 478.
+(pdftex.def)             Requested size: 469.47307pt x 227.2949pt.
+ [10 <./1.png> <./2.png>]
+<3.png, id=56, 884.103pt x 373.99725pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 487.
+(pdftex.def)             Requested size: 469.47307pt x 198.59995pt.
+<4.png, id=57, 891.33pt x 507.0945pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 494.
+(pdftex.def)             Requested size: 469.47307pt x 267.0952pt.
+<5.png, id=58, 955.1685pt x 237.88875pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 501.
+(pdftex.def)             Requested size: 469.47307pt x 116.92223pt.
+ [11 <./3.png> <./4.png> <./5.png>]
+<6.png, id=65, 1445.4pt x 813.0375pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 510.
+(pdftex.def)             Requested size: 469.47307pt x 264.07278pt.
+<7.png, id=66, 968.418pt x 254.1495pt>
+File: 7.png Graphic file (type png)
+<use 7.png>
+Package pdftex.def Info: 7.png  used on input line 517.
+(pdftex.def)             Requested size: 469.47307pt x 123.20807pt.
+<8.png, id=67, 584.1825pt x 233.673pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 524.
+(pdftex.def)             Requested size: 469.47307pt x 187.79437pt.
+ [12 <./6.png> <./7.png> <./8.png>]
+<9.png, id=75, 579.3645pt x 173.448pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 533.
+(pdftex.def)             Requested size: 469.47307pt x 140.55298pt.
+<10.png, id=76, 867.24pt x 812.28468pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 540.
+(pdftex.def)             Requested size: 469.47307pt x 439.7303pt.
+ [13 <./9.png> <./10.png>]
+<11.png, id=82, 1156.32pt x 619.113pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 554.
+(pdftex.def)             Requested size: 469.47307pt x 251.36288pt.
+<12.png, id=83, 1156.32pt x 614.89725pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 564.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+ [14 <./11.png> <./12.png>]
+<13.png, id=89, 1156.32pt x 614.89725pt>
+File: 13.png Graphic file (type png)
+<use 13.png>
+Package pdftex.def Info: 13.png  used on input line 573.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+<14.png, id=90, 1156.32pt x 614.89725pt>
+File: 14.png Graphic file (type png)
+<use 14.png>
+Package pdftex.def Info: 14.png  used on input line 583.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+ [15 <./13.png> <./14.png>]
+<15.png, id=96, 1156.32pt x 614.89725pt>
+File: 15.png Graphic file (type png)
+<use 15.png>
+Package pdftex.def Info: 15.png  used on input line 592.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+<16.png, id=97, 1156.32pt x 614.89725pt>
+File: 16.png Graphic file (type png)
+<use 16.png>
+Package pdftex.def Info: 16.png  used on input line 601.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+ [16 <./15.png> <./16.png>]
+<17.png, id=103, 1156.32pt x 614.89725pt>
+File: 17.png Graphic file (type png)
+<use 17.png>
+Package pdftex.def Info: 17.png  used on input line 610.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+<18.png, id=104, 1156.32pt x 614.89725pt>
+File: 18.png Graphic file (type png)
+<use 18.png>
+Package pdftex.def Info: 18.png  used on input line 619.
+(pdftex.def)             Requested size: 469.47307pt x 249.65128pt.
+ [17 <./17.png> <./18.png>] [18]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 679.
+ (C:\Users\Sai Sumakar\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (36.2206pt too wide) in paragraph at lines 701--701
+[]        \T1/cmtt/m/n/12 CONCAT(instructor.instructorfname, ' ', instructor.instructormname,[] 
+ []
+
+
+Overfull \hbox (36.2206pt too wide) in paragraph at lines 701--701
+[]        \T1/cmtt/m/n/12 JOIN instructor ON instructs.instructorid = instructor.instructorid[] 
+ []
+
+[19]
+Overfull \hbox (36.2206pt too wide) in paragraph at lines 743--743
+[]    \T1/cmtt/m/n/12 absenteesArray= absentees?absentees.split(',').map(id => id.trim()):[];[] 
+ []
+
+
+Overfull \hbox (30.0471pt too wide) in paragraph at lines 743--743
+[]    \T1/cmtt/m/n/12 status= absenteesArray.includes(student.studentid)?'absent':'present';[] 
+ []
+
+
+Overfull \hbox (60.91457pt too wide) in paragraph at lines 743--743
+[]        \T1/cmtt/m/n/12 INSERT INTO attends (studentid,classid,attendancestatus,attendancedate)[] 
+ []
+
+
+Overfull \hbox (23.87361pt too wide) in paragraph at lines 743--743
+[]        \T1/cmtt/m/n/12 ON DUPLICATE KEY UPDATE attendancestatus=VALUES(attendancestatus)[] 
+ []
+
+[20]
+Overfull \hbox (5.35313pt too wide) in paragraph at lines 1203--1203
+[]        \T1/cmtt/m/n/12 const studentQuery = 'SELECT * FROM student WHERE userid = ?';[] 
+ []
+
+[21]
+Overfull \hbox (5.35313pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 JOIN instructs ON course.courseid = instructs.courseid[] 
+ []
+
+
+Overfull \hbox (17.70012pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 LEFT JOIN attends ON class.classid = attends.classid AND[] 
+ []
+
+
+Overfull \hbox (42.39409pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 res.render('student_attendance', {student:studentResults[0],[] 
+ []
+
+
+Overfull \hbox (23.87361pt too wide) in paragraph at lines 1203--1203
+[]        \T1/cmtt/m/n/12 const facultyQuery = 'SELECT * FROM instructor WHERE userid = ?';[] 
+ []
+
+[22]
+Overfull \hbox (5.35313pt too wide) in paragraph at lines 1203--1203
+[]            \T1/cmtt/m/n/12 db.query(coursesQuery, [instructorId], (err, courses) => {[] 
+ []
+
+
+Overfull \hbox (36.2206pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 res.render('mark_attendance', { instructorid: instructorId,[] 
+ []
+
+
+Overfull \hbox (17.70012pt too wide) in paragraph at lines 1203--1203
+[]\T1/cmtt/m/n/12 // Add this route to handle the form submission from mark_attendance.ejs[] 
+ []
+
+
+Overfull \hbox (11.52663pt too wide) in paragraph at lines 1203--1203
+[]    \T1/cmtt/m/n/12 const { instructorid, courseid, date, time, absentees } = req.body;[] 
+ []
+
+[23]
+Overfull \hbox (79.43504pt too wide) in paragraph at lines 1203--1203
+[]        \T1/cmtt/m/n/12 const absenteesArray=absentees?absentees.split(',').map(id=>id.trim()):[];[] 
+ []
+
+
+Overfull \hbox (54.74107pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 absenteesArray.includes(student.studentid)?'absent':'present';[] 
+ []
+
+
+Overfull \hbox (60.91457pt too wide) in paragraph at lines 1203--1203
+[]                    \T1/cmtt/m/n/12 attends (studentid,classid,attendancestatus,attendancedate)[] 
+ []
+
+
+Overfull \hbox (60.91457pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 [student.studentid, classid, status, date], (err, results) => {[] 
+ []
+
+[24] [25] [26]
+Overfull \hbox (42.39409pt too wide) in paragraph at lines 1203--1203
+[]            \T1/cmtt/m/n/12 console.error('Error retrieving latest leave request ID:', err);[] 
+ []
+
+
+Overfull \hbox (17.70012pt too wide) in paragraph at lines 1203--1203
+[]            \T1/cmtt/m/n/12 latestRequestId = parseInt(results[0].leavereqid.substr(1));[] 
+ []
+
+
+Overfull \hbox (48.56758pt too wide) in paragraph at lines 1203--1203
+[]        \T1/cmtt/m/n/12 const newRequestId = 'l' + ('000' + (latestRequestId + 1)).slice(-3);[] 
+ []
+
+
+Overfull \hbox (42.39409pt too wide) in paragraph at lines 1203--1203
+[]            \T1/cmtt/m/n/12 INSERT INTO leaverequest (leavereqid, studentid, leavestartdate,[] 
+ []
+
+
+Overfull \hbox (11.52663pt too wide) in paragraph at lines 1203--1203
+[]            \T1/cmtt/m/n/12 startDate, endDate, type, reason, stts], (err, result) => {[] 
+ []
+
+[27]
+Overfull \hbox (23.87361pt too wide) in paragraph at lines 1203--1203
+[]        \T1/cmtt/m/n/12 SELECT DATE_FORMAT(leavestartdate, '%Y-%m-%d') AS leavestartdate,[] 
+ []
+
+
+Overfull \hbox (5.35313pt too wide) in paragraph at lines 1203--1203
+[]                \T1/cmtt/m/n/12 DATE_FORMAT(leaveenddate, '%Y-%m-%d') AS leaveenddate,[] 
+ []
+
+[28] (report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4360 strings out of 474486
+ 71136 string characters out of 5740887
+ 1943542 words of memory out of 5000000
+ 26597 multiletter control sequences out of 15000+600000
+ 570281 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,9n,65p,467b,424s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Sai Sumakar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on report.pdf (29 pages, 12879572 bytes).
+PDF statistics:
+ 569 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
